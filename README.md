@@ -1,21 +1,19 @@
-### Moon Halo
-
-
 ![KIANA](https://s2.loli.net/2022/01/10/6BQtY3CEm8oPHyZ.jpg)
 
-**"You can still end this story the way you want."**
+## Moon Halo
 
-<!--
-**shenlanAZ/shenlanAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Do the best you can, until you know better. Then when you know better, do better.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img src="https://raw.githubusercontent.com/WayneCommand/WayneCommand/main/assets/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+<p align="center">
+	<strong>"You can still end this story the way you want."</strong>
+</p>
+
+<p align="center">
+	<a href="https://waynecommand.com"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=Wayne&message=WayneCommand@2024&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8&logo=wish"/></a>
+</p>
