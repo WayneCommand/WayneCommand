@@ -15,5 +15,5 @@ Do the best you can, until you know better. Then when you know better, do better
 </p>
 
 <p align="center">
-	<a href="https://waynecommand.com"><img src="https://raw.githubusercontent.com/WayneCommand/WayneCommand/main/assets/wayne-gh.svg"/></a>
+	<a href="https://waynecommand.com"><img src="https://raw.githubusercontent.com/WayneCommand/WayneCommand/main/assets/wayne-gh.svg?sanitize=true"/></a>
 </p>
