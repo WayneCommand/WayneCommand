@@ -22,27 +22,3 @@
         <text transform="scale(.1)" x="1753.75" y="175" textLength="1602.5" fill="#333" font-weight="bold">WayneCommand@2024</text>
     </g>
 </svg>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="45" role="img" aria-label="WAYNE: WAYNECOMMAND@2024">
-    <title>WAYNE: WAYNECOMMAND@2024</title>
-    <defs>
-        <filter id="dropShadow" x="-20%" y="-20%" width="150%" height="150%">
-            <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-            <feOffset dx="3" dy="5" result="offsetblur"/>
-            <feFlood flood-color="rgba(0,0,0,0.08)"/>
-            <feComposite in2="offsetblur" operator="in"/>
-            <feMerge>
-                <feMergeNode/>
-                <feMergeNode in="SourceGraphic"/>
-            </feMerge>
-        </filter>
-    </defs>
-    <g transform="translate(16, 0)" shape-rendering="crispEdges" filter="url(#dropShadow)">
-        <path d="M0,6 Q0,0 6,0 H83.25 V28 H6 Q0,28 0,22 Z" fill="#363a4f"/>
-        <path d="M83.25,0 H261.5 Q267.5,0 267.5,6 V22 Q267.5,28 261.5,28 H83.25 Z" fill="#b7bdf8"/>
-    </g>
-    <g transform="translate(16, 0)" fill="#fff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Verdana,Geneva,DejaVu Sans" text-rendering="geometricPrecision" font-size="100">
-        <image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZDllMGVlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2lzaDwvdGl0bGU+PHBhdGggZD0iTTE4Ljg2NCAxOS44MjZoLTQuMTA3bC0zLjIyNy05LjM5My0yLjI4IDkuMzlINS4xNDNMMCA0LjY1aDQuMjE3bDQuMzU0IDEzLjEyOGMxLjU1OC00LjQgMi41MzQtOC41IDEuMDIxLTEzLjEyOEgxMy43Wk0yMC41NyA0LjE3NGExNS43MDUgMTUuNzA1IDAgMCAxLTMuNDI1IDQuMTcxIDE3LjA5NSAxNy4wOTUgMCAwIDEgMy40MjUgNS41NkExNy4xMTYgMTcuMTE2IDAgMCAxIDI0IDguMzQ1YTE1LjczNCAxNS43MzQgMCAwIDEtMy40My00LjE3WiIvPjwvc3ZnPg=="/>
-        <text transform="scale(.1)" x="501.25" y="175" textLength="422.5" fill="#fff">Wayne</text>
-        <text transform="scale(.1)" x="1753.75" y="175" textLength="1602.5" fill="#333" font-weight="bold">WayneCommand@2024</text>
-    </g>
-</svg>
