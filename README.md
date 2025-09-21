@@ -2,7 +2,7 @@
 
 ![KIANA](https://imgstor.waynecommand.com/wayne_backgroud.png)
 
-## Moon Halo
+## The Value
 
 Do the best you can, until you know better. Then when you know better, do better.
 
@@ -13,7 +13,7 @@ Do the best you can, until you know better. Then when you know better, do better
 </p>
 
 <p align="center">
-	<strong>"You can still end this story the way you want."</strong>
+	<strong>"Go fight against yout fate."</strong>
 </p>
 
 <p align="center">
